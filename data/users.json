@@ -1,0 +1,17 @@
+[{
+  firstName: 'Bradford',
+  lastName: 'Hedrick'
+}, {
+  firstName: 'Nancy',
+  lastName: 'Huffman '
+}, {
+  firstName: 'William',
+  lastName: 'Jenkins',
+  description: 'part time'
+}, {
+  firstName: 'Amanda',
+  lastName: 'Edwards'
+}, {
+  firstName: 'Sarah',
+  lastName: 'Jarvis'
+}]
