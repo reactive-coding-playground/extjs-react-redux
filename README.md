@@ -18,3 +18,6 @@ NOTE: the Ext JS app is configured for development profile only! If you want to 
  - specify `react.redux.demo.path` in corresponding .properties files
  - configure webpack config for production build
  - update `build.xml` with ant task copying the bundle into the `build` directory.
+
+For detailed info, see the following blog post
+http://reanimatter.com/2016/06/06/running-react-redux-app-in-ext-js-app-with-two-way-communication/
